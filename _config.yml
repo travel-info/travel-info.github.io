@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: 研究者向け出張情報まとめ
+email: oxon@mac.com
+description: > # this means to ignore newlines until "baseurl:"
+  国内外の研究機関への出張に役立つ情報を、研究者有志でまとめています。不正確な情報を見つけたり、追加したい項目などがあれば、GitHub 経由でぜひ編集にご参加ください。このページに書かれている情報は正確性を保証するものではありません。
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://travel-info.github.io" # the base hostname & protocol for your site
+twitter_username: AkiraOkumura
+github_username:  travel-info
+
+# Build settings
+markdown: kramdown

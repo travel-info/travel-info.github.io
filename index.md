@@ -1,6 +1,6 @@
 ---
-title: 海外出張まとめ
-layout: post
+title: はじめに
+layout: page
 ---
 
 Here is my page.
